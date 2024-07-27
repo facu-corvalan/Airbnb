@@ -3,10 +3,6 @@
 <h2 align="center"><img src="Img/AirBnB.jpg" alt="AirBnB" style="width: 50%;"></h2>
 
 
-## Presentación
-
-En el presente proyecto se nos encomienda, como analistas de datos, investigar sobre el negocio de alquileres de corto plazo a través de Airbnb. Vamos a explorar las distintas dinámicas del mercado y generar estrategias de inversión personalizadas para maximizar el retorno de inversión.
-
 ## Introducción
 
 Airbnb es una plataforma en línea que permite a las personas alquilar sus propiedades o habitaciones a corto plazo a huéspedes de todo el mundo. Desde su creación, ha revolucionado la industria de la hospitalidad al ofrecer una alternativa a los hoteles tradicionales y proporcionar una fuente adicional de ingresos para los anfitriones.
@@ -55,7 +51,6 @@ Se diseñó un dashboard funcional y coherente con el storytelling del proyecto.
 ## Elementos del Repositorio
 
 - `EDA.ipynb`: Análisis exploratorio de los datos.
-- `calendar.csv`, `listings.csv`, `reviews.csv`: Datos utilizados para el análisis.
 - `Dashboard.pbix`: Dashboard diseñado para la exposición de este trabajo.
 - Carpeta `imgs`: Imágenes utilizadas para este README.
 
