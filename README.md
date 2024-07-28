@@ -55,8 +55,8 @@ Se diseñó un dashboard funcional y coherente con el storytelling del proyecto.
 - Carpeta `imgs`: Imágenes utilizadas para este README.
 
 
+<h2 style="text-align: center;">Autor</h2>
 <div style="text-align: center;">
-  <h2>Autor</h2>
   <img src="https://avatars.githubusercontent.com/u/166779106?v=4" alt="Facundo Corvalan" style="width: 150px; height: 150px; border-radius: 50%;"><br>
   <strong>Facundo Corvalan</strong><br>
   <a href="https://www.linkedin.com/in/facundo-corvalan" target="_blank">
