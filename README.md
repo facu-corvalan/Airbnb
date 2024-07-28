@@ -55,14 +55,19 @@ Se diseñó un dashboard funcional y coherente con el storytelling del proyecto.
 - Carpeta `imgs`: Imágenes utilizadas para este README.
 
 
-<h2 style="text-align: center;">Autor</h2>
-<div style="text-align: center;">
-  <img src="https://avatars.githubusercontent.com/u/166779106?v=4" alt="Facundo Corvalan" style="width: 150px; height: 150px; border-radius: 50%;"><br>
-  <strong>Facundo Corvalan</strong><br>
+<h2 align="center">Autor</h2>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/166779106?v=4" alt="Facundo Corvalan" style="width: 150px; height: 150px; border-radius: 50%;">
+</p>
+<p align="center">
+  <strong>Facundo Corvalan</strong>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/facundo-corvalan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100px;">
   </a>
   <a href="mailto:adrian.facundo2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="width: 80px;">
   </a>
-</div>
+</p>
+
